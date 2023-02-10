@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Edson, a Robotics Researcher/Engineer/Developer
 
 - :robot: I’m currently working on task, motion, and mission planning for a underwater robotics multi agent system (ROS, ROSPlan, Python, C++).
-  - :uk: Research Associate, AI and Autonomous Systems - Royal Holloway University of London
+  - :uk: Research Associate, AI and Autonomous Systems - Royal Holloway University of London (2021 - Now)
 
 - :robot: Control swarms of robots (Post-doctoral researcher) 
-  - :brazil: INCT Brazil (Grant from National Institute of Science and Technology for Autonomous Systems Cooperatives Applied to Safety and the Environment.) Universidade Federal de Minas Gerais 
+  - :brazil: INCT Brazil (Grant from National Institute of Science and Technology for Autonomous Systems Cooperatives Applied to Safety and the Environment.) Universidade Federal de Minas Gerais (2020 - 2021)
 
 - :robot: Substitute Professor Control and Automation Engineering
-  - :brazil: Universidade Federal de Ouro Preto
+  - :brazil: Universidade Federal de Ouro Preto (2021 - 2022)
   
 - :robot: Robotics Master's and PhD with thesis in control of swarms of robots
-  - :brazil: Universidade Federal de Minas Gerais  
+  - :brazil: Universidade Federal de Minas Gerais (2013 - 2020)
   
 - :free: In my free time I like to play sports (:soccer:, :tennis:, :ping_pong:, :boxing_glove:, :football:, :volleyball:) and develop technology related projects (Robotics, AI, Games, etc.)
 
