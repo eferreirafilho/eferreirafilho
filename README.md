@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Edson, a Robotics Researcher/Engineer/Developer
 
-- :robot: I’m currently working on task, motion, and mission planning for a underwater robotics multi agent system (ROS, ROSPlan, PDDL, Python, C++).
-  - :uk: Research Associate, AI and Autonomous Systems - Royal Holloway University of London (2022 - Now)
+- :robot: Omniverse, IsaacSim, ROS2, Control, Planning, Robotic Manipulators (details protected by NDA).
+  - :de: Robotics Software Engineer - N-fuse GmBH Germany (Remote) (2023 - Now)
+
+- :robot: Member of a UK innovate project, working on task, motion, and mission planning for a underwater robotics multi agent system (ROS, ROSPlan, PDDL, Python, C++).
+  - :uk: Research Associate, AI and Autonomous Systems - Royal Holloway University of London (2022 - 2023)
 
 - :robot: Substitute Professor Control and Automation Engineering
   - :brazil: Universidade Federal de Ouro Preto (2021 - 2022)
