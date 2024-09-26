@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Edson, a Robotics Researcher/Engineer/Developer
 
 - :robot: Nvidia Omniverse, Isaac Sim, Autonomous Drones, ROS2, JSBSim, PX4, Mavlink, Docker (details protected by NDA).
-  - :us: Robotics Software Engineer - N-fuse GmBH Germany (Remote from Brazil) (2023 - Now)
+  - :us: Robotics Software Engineer - FS Studio (Remote from Brazil) (2023 - Now)
 
 - :robot: Omniverse, IsaacSim, ROS2, Control, Planning, Robotic Manipulators (details protected by NDA).
   - :de: Robotics Software Engineer - N-fuse GmBH Germany (Remote from Brazil) (2023 - 2024)
