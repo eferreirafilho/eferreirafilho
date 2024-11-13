@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Edson, a Robotics Researcher/Engineer/Developer
 
-- :robot: Omniverse, Isaac Sim, ROS2, Control, Motion Planning, Robotic Manipulators (details protected by NDA).
+- :robot: Nvidia Omniverse, Isaac Sim, ROS2, Control, Motion Planning, Robotic Manipulators (details protected by NDA).
   - :us: Senior Robotics Software Engineer - Microsoft (Part-Time, Remote from 🇧🇷) (2024 - Now)
 
 - :robot: Nvidia Omniverse, Isaac Sim, Autonomous Drones, ROS2, JSBSim, PX4, Mavlink, Docker (details protected by NDA).
   - :us: Robotics Software Engineer - FS Studio (Part-Time, Remote from :brazil:) (2024 - Now)
 
-- :robot: Omniverse, IsaacSim, ROS2, Control, Planning, Robotic Manipulators (details protected by NDA).
+- :robot: Nvidia Omniverse, Isaac Sim, ROS2, Control, Planning, Machine Learning, Reinforcement Learning, Robotic Manipulators (details protected by NDA).
   - :de: Robotics Software Engineer - N-fuse GmBH Germany (Remote from :brazil:) (2023 - 2024)
 
 - :robot: Member of a UK innovate project, working on task, motion, and mission planning for a underwater robotics multi agent system (ROS, ROSPlan, PDDL, Python, C++).
