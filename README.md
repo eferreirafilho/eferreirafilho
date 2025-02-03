@@ -20,6 +20,7 @@
 
 - :robot: Control of swarms of robots (Post-doctoral researcher) 
   - :brazil: INCT Brazil (Grant from National Institute of Science and Technology for Autonomous Systems Cooperatives Applied to Safety and the Environment.) Universidade Federal de Minas Gerais (2020 - 2021)
+  - [Related Video 1 - Safe Radial Segregation Algorithm for Swarms off Dubins-like Robots](https://www.youtube.com/watch?v=FILIcJzhCA4)
   
 - :robot: Robotics Master's and PhD with thesis in control of swarms of robots
   - :brazil: Universidade Federal de Minas Gerais (2013 - 2020)
