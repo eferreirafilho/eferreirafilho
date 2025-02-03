@@ -13,7 +13,7 @@
 
 - :robot: Member of a UK innovate project, working on task, motion, and mission planning for a underwater robotics multi agent system (ROS, ROSPlan, PDDL, Python, C++).
   - :uk: Research Associate, AI and Autonomous Systems - Royal Holloway University of London (2022 - 2023)
-  - [Related Video 1 - 4 AUVS in Offshore Wind Turbine Farm]([https://www.youtube.com/watch?v=kLMvVMQh2kI](https://www.youtube.com/watch?v=oD5WU7dRKI8))
+  - [Related Video 1 - 4 AUVS in Offshore Wind Turbine Farm](https://www.youtube.com/watch?v=oD5WU7dRKI8)
 
 - :robot: Substitute Professor Control and Automation Engineering
   - :brazil: Universidade Federal de Ouro Preto (2021 - 2022)
