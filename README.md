@@ -8,6 +8,8 @@
 
 - :robot: Nvidia Omniverse, Isaac Sim, ROS2, Control, Planning, Machine Learning, Reinforcement Learning, Robotic Manipulators (details protected by NDA).
   - :de: Robotics Software Engineer - N-fuse GmBH Germany (Remote from :brazil:) (2023 - 2024)
+  - [Related Video 1 - Robot scooping Pizza](https://www.youtube.com/watch?v=kLMvVMQh2kI)
+  - [Related Video 2 - Isaac Sim Deformable Pizza Tests](https://www.youtube.com/watch?v=xqo80AxXEqs)
 
 - :robot: Member of a UK innovate project, working on task, motion, and mission planning for a underwater robotics multi agent system (ROS, ROSPlan, PDDL, Python, C++).
   - :uk: Research Associate, AI and Autonomous Systems - Royal Holloway University of London (2022 - 2023)
