@@ -21,9 +21,15 @@
 - :robot: Control of swarms of robots (Post-doctoral researcher) 
   - :brazil: INCT Brazil (Grant from National Institute of Science and Technology for Autonomous Systems Cooperatives Applied to Safety and the Environment.) Universidade Federal de Minas Gerais (2020 - 2021)
   - [Related Video 1 - Safe Radial Segregation Algorithm for Swarms off Dubins-like Robots](https://www.youtube.com/watch?v=FILIcJzhCA4)
+  - [Related Video 2 - Abstraction based approach for Segregation in Heterogeneous Robotic Swarms](https://www.youtube.com/watch?v=7HrFgdQAsmk)
+  - [Related Video 3 - Segregation of Heterogeneous Swarms of Robots in Curves ](https://www.youtube.com/watch?v=JuUn4DIa0-w)
   
 - :robot: Robotics Master's and PhD with thesis in control of swarms of robots
   - :brazil: Universidade Federal de Minas Gerais (2013 - 2020)
+ 
+- :robot: Other projects
+  - [Related Video 1 - Traffic Alert and Collision Avoidance System](https://www.youtube.com/watch?v=qwxTIXPNZy4)
+  - [Related Video 2 - Simulation of a UAV in ROS/Gazebo](https://www.youtube.com/watch?v=5zz554kwlhc)
   
 - :free: In my free time I like to play sports (:soccer:, :tennis:, :ping_pong:, :boxing_glove:, :football:, :volleyball:) and develop technology related projects (Robotics, AI, Games, etc.)
 
