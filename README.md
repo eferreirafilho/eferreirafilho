@@ -5,7 +5,8 @@
 
 - :robot: Nvidia Omniverse, Isaac Sim, Autonomous Drones, ROS2, JSBSim, PX4, Mavlink, Docker (details protected by NDA).
   - :us: Robotics Software Engineer - FS Studio (Part-Time, Remote from :brazil:) (2024 - Now)
-
+  - [Related Blog Post](https://fsstudio.com/photorealistic-drone-simulation-through-omniverse-and-gazebo-case-study)
+    
 - :robot: Nvidia Omniverse, Isaac Sim, ROS2, Control, Planning, Machine Learning, Reinforcement Learning, Robotic Manipulators (details protected by NDA).
   - :de: Robotics Software Engineer - N-fuse GmBH Germany (Remote from :brazil:) (2023 - 2024)
   - [Related Video 1 - Robot scooping Pizza](https://www.youtube.com/watch?v=kLMvVMQh2kI)
