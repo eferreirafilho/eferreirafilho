@@ -42,3 +42,7 @@
 - :link: Academic publications and videos https://edsonbffilho.weebly.com/academic
 - :link: Other "for fun" projects: https://edsonbffilho.weebly.com/other-projects
 - :mailbox: edsonbffilho@gmail.com
+
+
+![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=eferreirafilho&show_icons=true&theme=radical)
+
