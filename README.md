@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Edson, a Robotics Researcher/Engineer/Developer
 
 - :robot: Nvidia Omniverse, Isaac Sim, Task Planning, Motion Planning, Orchestration, Multi-robot systems (details protected by NDA).
-  - Simulation Engineer - Xseed 🇺🇾 - Allocated to Stealth :us: startup (Part-Time, Remote from 🇧🇷) (2025 - Now)
+  - Simulation Engineer - Xseed 🇺🇾 - Allocated to Stealth :us: startup (Full-Time, Remote from 🇧🇷) (2025 - Now)
 
 - :robot: Nvidia Omniverse, Isaac Sim, ROS2, Control, Motion Planning, Robotic Manipulators (details protected by NDA).
   - :us: Senior Robotics Software Engineer - Microsoft (Part-Time, Remote from 🇧🇷) (2024 - 2025)
